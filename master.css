@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(4, 2, 4);
+}
+
+.gif {
+    text-align: center;
+    transform: translateY(50%);
+    top: -50%;
+}
